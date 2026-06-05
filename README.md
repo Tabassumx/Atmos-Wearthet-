@@ -20,14 +20,14 @@ Atmos is built with simplicity, performance, smooth animations, and futuristic U
 
 ---
 
-# 🚀 Current Features
+#  Features
 
-## 🌍 Real-Time Weather Data
+##  Real-Time Weather Data
 Get live weather updates instantly using real-time location detection.
 
 ---
 
-## 🌡️ Temperature Information
+##  Temperature Information
 
 - Current temperature
 - Feels-like temperature
@@ -36,7 +36,7 @@ Get live weather updates instantly using real-time location detection.
 
 ---
 
-## 💨 Atmospheric Information
+##  Atmospheric Information
 
 - Humidity
 - Wind speed
@@ -47,27 +47,27 @@ Get live weather updates instantly using real-time location detection.
 
 ---
 
-## 🌅 Sun Information
+##  Sun Information
 
 - Sunrise timing
 - Sunset timing
 
 ---
 
-## 📅 Forecast System
+##  Forecast System
 
-### ⏰ Hourly Forecast
+###  Hourly Forecast
 - Hour-by-hour temperature updates
 - Dynamic weather condition icons
-
-### 📆 5-Day Forecast
+  
+###  5-Day Forecast
 - Weather predictions for upcoming days
 - High & low temperatures
 - Weather condition summaries
 
 ---
 
-## 🌫️ Air Quality Index (AQI)
+##  Air Quality Index (AQI)
 
 Integrated AQI system with readable labels.
 
@@ -81,7 +81,7 @@ Integrated AQI system with readable labels.
 
 ---
 
-## 🎨 Modern UI Design
+##  Modern UI Design
 
 Atmos Weather includes:
 - Glassmorphism effects
@@ -92,7 +92,7 @@ Atmos Weather includes:
 
 ---
 
-## 📱 Fully Responsive
+##  Fully Responsive
 
 Optimized for:
 - Mobile devices
@@ -102,7 +102,7 @@ Optimized for:
 
 ---
 
-## ⚡ Fast & Lightweight
+##  Fast & Lightweight
 
 Built using lightweight frontend technologies without heavy frameworks.
 
@@ -114,7 +114,7 @@ Focused on:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 <div align="center">
 
@@ -130,7 +130,7 @@ Focused on:
 
 ---
 
-# 🎯 Project Goals
+#  Project Goals
 
 Atmos Weather was built to:
 - Create a futuristic weather experience
@@ -141,7 +141,7 @@ Atmos Weather was built to:
 
 ---
 
-# 🎨 Design Philosophy
+#  Design Philosophy
 
 The interface is inspired by:
 - Glassmorphism
@@ -156,26 +156,26 @@ The goal is to make weather feel immersive instead of static.
 
 # New Updated Features
 
-## 🌤️ Dynamic Day/Night Themes
+##  Dynamic Day/Night Themes
 
 The app environment will change based on real-world local time.
 
-### 🌅 Morning
+###  Morning
 - Warm sunrise colors
 - Sun positioned on the left side
 - Soft atmospheric lighting
 
-### ☀️ Noon
+###  Noon
 - Bright daylight environment
 - Sun moves to the center
 - Increased lighting intensity
 
-### 🌇 Sunset
+###  Sunset
 - Orange/red cinematic sky
 - Sun positioned on the right side
 - Warm sunset glow effects
 
-### 🌌 Night
+###  Night
 - Dark atmospheric mode
 - Moonlight effects
 - Animated night sky
@@ -184,7 +184,7 @@ The sun will dynamically move across the interface based on real-time local time
 
 ---
 
-# 🌙 Realistic Moon Simulation
+#  Realistic Moon Simulation
 
 Atmos is planned to include a realistic moon rendering engine.
 
@@ -214,7 +214,7 @@ Atmos aims to create a true atmospheric moon experience.
 
 ---
 
-# 🌡️ Future Atmospheric Features
+#  Future Atmospheric Features
 
 Upcoming advanced weather analytics:
 - Wet Bulb Temperature
@@ -226,7 +226,7 @@ Upcoming advanced weather analytics:
 
 ---
 
-# 📱 Performance Goals
+#  Performance Goals
 
 Atmos Weather is designed to:
 - Load quickly
@@ -242,7 +242,7 @@ Atmos Weather is designed to:
 
 ---
 
-# 👨‍💻 Developer
+#  Developer
 
 Made with creativity and atmospheric design thinking by **Tabassum** 
 
