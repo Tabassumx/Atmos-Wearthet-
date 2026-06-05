@@ -154,7 +154,7 @@ The goal is to make weather feel immersive instead of static.
 
 ---
 
-# 🌌 Upcoming Features
+# New Updated Features
 
 ## 🌤️ Dynamic Day/Night Themes
 
