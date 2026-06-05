@@ -244,19 +244,19 @@ Atmos Weather is designed to:
 
 #  Developer
 
-Made with creativity and atmospheric design thinking by **Tabassum** 
+Made with creativity and atmospheric design by **Tabassum** 
 
-Frontend Developer • UI Explorer • Building futuristic experiences
 
 ---
-<div align="center">
 
- 
+
+## Feedback Please 
+
 let me know hows the app 
 - Go to About i
 - go at botton and make  a comment feedback
 ---
-  
+  <div align="center">
 
 
 ### ⭐ If you like this project, consider giving it a star.
