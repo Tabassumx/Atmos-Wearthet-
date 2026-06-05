@@ -249,8 +249,15 @@ Made with creativity and atmospheric design thinking by **Tabassum**
 Frontend Developer • UI Explorer • Building futuristic experiences
 
 ---
-
 <div align="center">
+
+ 
+let me know hows the app 
+- Go to About i
+- go at botton and make  a comment feedback
+---
+  
+
 
 ### ⭐ If you like this project, consider giving it a star.
 
